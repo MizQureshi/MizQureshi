@@ -1,8 +1,7 @@
-## Hi there 👋
 
 <!--Introduction-->
 
-# Heyy, I'm Misbah!
+# Heyy, I'm Misbah! 
 
 👩‍💻 Sharing my journey and learnings in Tech<br/>
 Studying Cybersecurity at Victoria University, Australia<br/>
